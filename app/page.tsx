@@ -173,7 +173,7 @@ const CodeReviewer = () => {
 
         {/* GitHub Star button */}
         <a
-          href="https://github.com/your-repo"
+          href="https://github.com/beastaman/CodeIQ"
           target="_blank"
           className="fixed top-2 right-4 bg-gray-700 text-white px-4 py-2 rounded-full shadow-lg flex items-center hover:bg-gray-600"
           rel="noreferrer"
@@ -303,7 +303,7 @@ const CodeReviewer = () => {
 
         {/* Buy Me a Coffee Button */}
         <a
-          href="https://www.buymeacoffee.com/your-profile"
+          href="https://buymeacoffee.com/beastaman"
           target="_blank"
           className="fixed bottom-4 right-4 bg-yellow-500 text-black px-4 py-2 rounded-full shadow-lg flex items-center hover:bg-yellow-400"
           rel="noreferrer"
