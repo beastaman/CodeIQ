@@ -128,7 +128,7 @@ const CodeReviewer = () => {
                 <div>
                   <CardTitle className="text-white flex items-center gap-2">
                     <Code2 className="h-6 w-6" />
-                    AI Code Quality Reviewer
+                    CodeIQ
                   </CardTitle>
                   <CardDescription className="text-gray-400">
                     Get AI-powered analysis and suggestions for your code
